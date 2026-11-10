@@ -1,0 +1,128 @@
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+ELECCIÓN INDIVIDUAL
+Elena, Felipe, Ana
+Criterio: nos basamos mas que todo en las situcaciones de cada persona y ver si les seria util tomar el curso y que capacidad autonoma de estudio poseen, no nos fijamos en sus notas ni asistencias mas que todo fue la situacion 
+
+PRIMERA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+PRIMERA RESPUESTA
+chatgpt: 
+. Diego
+- Nota actual: 1,9.
+- Asistencia: 60 %.
+- Justificación: Tiene la nota más baja del grupo y una asistencia reducida. Ha faltado a clases para cuidar a un familiar y, aunque desea continuar, siente que está muy atrasado. Necesita acompañamiento académico y orientación para recuperar los contenidos pendientes.
+2. Ana
+- Nota actual: 2,1.
+- Asistencia: 95 %.
+- Justificación: A pesar de asistir regularmente y estudiar por su cuenta, sigue sin comprender varios conceptos básicos. Esto indica que necesita una estrategia de aprendizaje diferente, con explicaciones personalizadas y ejercicios prácticos para fortalecer sus fundamentos de programación.
+3. Gabriela
+- Nota actual: 2,6.
+- Asistencia: 80 %.
+- Justificación: Su rendimiento académico es bajo y tiene dificultades para practicar porque comparte el computador en casa. El acompañamiento podría ayudarla a organizar sus prácticas, aprovechar mejor los recursos disponibles y reforzar sus conocimientos.
+
+claude:
+Los tres elegidos
+
+1. Diego (1,9 · 60 %)
+Es el caso con mayor riesgo de abandono: tiene la nota más baja y la asistencia más baja, y él mismo dice que se siente muy atrasado. Su ausencia tiene una causa justificada (cuidar a un familiar), no es desinterés, y quiere continuar. Una persona motivada que está a punto de caerse del curso es quien más provecho saca de un acompañamiento: el acompañante puede ayudarle a nivelarse y a recuperar el hilo de los temas perdidos.
+
+2. Ana (2,1 · 95 %)
+Asiste casi siempre y estudia por su cuenta, así que el esfuerzo está puesto. Aun así, su nota es la segunda más baja y no entiende conceptos básicos. En programación, lo básico es la base de todo lo siguiente, así que la brecha crece con cada tema. Su problema no es de tiempo ni de dedicación, sino de comprensión, y eso es exactamente lo que un acompañamiento personalizado puede corregir. Estudiar sola no le está funcionando.
+
+3. Camila (2,8 · 100 %)
+Asiste siempre, pero depende de una compañera para resolver ejercicios y se bloquea cuando trabaja sola. Su nota de 2,8 puede dar una falsa sensación de seguridad: parte de ese resultado está sostenido por la ayuda externa, no por su autonomía. El riesgo aparece en evaluaciones individuales o cuando la compañera no esté. Un acompañamiento puede enseñarle estrategias para desbloquearse sola.
+
+qwen:
+Diego (Nota: 1,9 | Asistencia: 60%)
+
+    Justificación: Es el estudiante con la nota más baja del curso, lo que indica un retraso académico crítico. Aunque su asistencia es baja (60%), la razón es de fuerza mayor (cuidar a un familiar) y él expresa explícitamente que "quiere continuar". Sin un programa de acompañamiento que le ofrezca flexibilidad, nivelación de contenidos y apoyo emocional, es el candidato número uno a la deserción escolar.
+
+Ana (Nota: 2,1 | Asistencia: 95%)
+
+    Justificación: Ana presenta la segunda nota más baja pero tiene una asistencia casi perfecta y estudia por su cuenta. Esto demuestra una gran voluntad y disciplina, pero está frustrada porque "no comprende conceptos básicos". Es el perfil ideal para un acompañamiento pedagógico: tiene la actitud, solo le falta la metodología o la explicación adecuada para desbloquear su aprendizaje.
+
+Elena (Nota: 2,7 | Asistencia: 100%)
+
+    Justificación: Elena tiene asistencia perfecta, lo que garantiza su compromiso. Su situación es muy recuperable: "comprende las explicaciones" (tiene la base teórica) pero "comete errores al programar" (falla en la práctica). Con un acompañamiento enfocado en talleres prácticos y revisión de código, es muy probable que supere el curso rápidamente.
+    (Nota: También se podría considerar a Camila por su 100% de asistencia y dependencia de otros, pero Elena parece tener una base teórica más sólida que facilita la intervención).
+
+OBSERVACIONES
+1R// la IA interpreto el rendimiento en base a la nota , tambien tomo en cuenta la situaciones de cada  persona y los conocimientos o aprendizajes, de esta manera priorizo a los que peor les iba.
+2.R//utilizo mucho las situaciones de cada persona para inferir que necesitan el curso,, utilizo todos los datos como la nota y las asistencias para conocer su contexto y decidir si debe o no tomar el curso.
+3.R// infiere mucho en las situaciones de cada persona y trata de justificarlas 
+4R//las 3 IAS no pidieron mas informacion adicional, incluso todas hicieron una conclusion al final del porque escogieron a los alumnos y en que se basaron
+
+SEGUNDA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+Información adicional sobre el programa:
+PROGRAMA A: Preparación para el examen
+Dos sesiones de dos horas antes del examen de la próxima semana. El propósito es apoyar a estudiantes para que alcancen la nota mínima de aprobación: 3. Los ocho estudiantes pueden asistir a las dos sesiones. Hay computadores disponibles durante las sesiones. No hay préstamo de equipos ni acompañamiento después del examen.
+
+SEGUNDA RESPUESTA
+chatgpt:
+1. Elena (2,7, 100 %)
+Comprende las explicaciones y asiste siempre. Su problema son los errores al programar, que se corrigen con práctica guiada y retroalimentación inmediata. Eso es justo lo que ofrecen dos sesiones con computadores. Está a 0,3 de aprobar y su dificultad es de ejecución, no de comprensión.
+
+2. Hugo (2,5, 90 %)
+Entrega las actividades, pero no sabe explicar cómo funciona su código. Es un hueco de comprensión que un examen va a exponer, y que se puede trabajar en sesiones donde tenga que explicar y razonar en voz alta. Su asistencia es buena y está a 0,5 de aprobar.
+
+3. Camila (2,8, 100 %)
+Es la más cercana a aprobar, pero su señal de riesgo es clara: resuelve con ayuda y se bloquea sola, y el examen es individual. Las sesiones le permiten practicar la autonomía, con acompañamiento que se retira gradualmente. Si no trabaja sola antes del examen, su nota actual probablemente sobreestima su desempeño real.
+
+COMPARACIÓN
+gracias al contexto escogio a los estudiantes que estuvieran mas cerca de aprobar con la nota minima, tomo en cuenta las habilidades previas y como las podrian potenciar con el curso, con estos criterios cambio la seleccion de estudiantes, anteriormente habia escogido a : diego ana y camila, y ahora esocgio a: elena, hugo y camila, se enfoco mas en la nota y la asistencia 
+
+
+CONCLUSIÓN
+dar el mayor contexto posible porque como lo pudimos ver con las actividades anteriores, las respuestas pueden cambiar dependiendo del contexto que se le de, en la primera activdad las ias le dieron mas atencion a las situaciones de los estudiantes dejando a un lado las notas y la asistencia, pero en la segunda actividad, escogiendo el programa 2 con mas contexto y estableciendo prioridades, la ia cambia su metodo de seleccion y opta por estudiantes diferentes, basandose en su nota( nota mas cercana a 3) 
